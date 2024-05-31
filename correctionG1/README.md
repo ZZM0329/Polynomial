@@ -1,3 +1,4 @@
+# Polynomial
 To ensure that all coefficients of 
 $$P(\Delta_2(Q^\pi(G_{1,b+1,c+1})),x+e(G)+3-\frac{1.5}{n})$$
 are positive,
