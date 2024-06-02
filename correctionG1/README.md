@@ -18,7 +18,7 @@ See P1.m and  P2.m for the MATLAB code.
 
 See G_{1,b+1,c+1}.txt and G_{a+2,b,c}.txt for the results of the MATLAB code.
 
-See below for the results of the MATLAB code
+See below for the results of the MATLAB code:
  
 
 
