@@ -1,6 +1,6 @@
 # Polynomial
 To ensure that all coefficients of 
-$$P_t=P(\Delta_2(Q^\pi(G_{1,b+1,c+1})),x+e(G)+3-\frac{1.5}{n})$$
+$$P(\Delta_2(Q^\pi(G_{t_1,t_2,t_3})),x+e(G)+3-\frac{1.5}{n})$$
 are positive,
 we partition the consideration into two parts, one is about  $t_1=1,t_2,t_3\geq 1$, and the other is about $t_1\geq 2,t_2,t_3\geq 0$.
 
