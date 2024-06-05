@@ -1,4 +1,4 @@
-# Polynomial
+# MATLAB Code and Results for Polynomial Coefficient Analysis
 To ensure that all coefficients of 
 $$P(\Delta_2(Q^\pi(G_{t_1,t_2,t_3})),x+e(G)+3-\frac{1.5}{n})$$
 are positive,
